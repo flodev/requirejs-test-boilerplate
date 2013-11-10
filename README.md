@@ -1,7 +1,7 @@
 requirejs-test-boilerplate
 ====================
 
-This project provides a boilerplate for organizing your test and app files.
+This project provides a boilerplate for organizing your test and app files. http://flodev.blogspot.de/2013/11/requirejs-test-boilerplate.html
 
 Features
 ====================
