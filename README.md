@@ -13,7 +13,7 @@ Features
 Installation
 ====================
 
-Checkout out or download this project to directory.
+Checkout out or download this project to a directory.
 
 Install bower (if you havn't already):
     sudo npm install -g bower
