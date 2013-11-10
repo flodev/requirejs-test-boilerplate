@@ -1,0 +1,23 @@
+{
+  "name": "requirejs-test-setup",
+  "version": "1.0.0",
+  "authors": [
+    "Florian Biewald <f.biewald@googlemail.com>"
+  ],
+  "description": "Provides a complete test setup for require js including mocks",
+  "main": "js/tests/tests.js",
+  "keywords": [
+    "requirejs",
+    "mocks",
+    "unit",
+    "tests",
+    "jasmine"
+  ],
+  "license": "MIT",
+  "homepage": "flodev.blogspot.com",
+  "dependencies": {
+    "jasmine": "1.3.1",
+    "requirejs": "2.1.9",
+    "jquery": "2.0.3"
+  }
+}
