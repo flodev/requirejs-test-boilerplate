@@ -12,7 +12,7 @@ define(
                 @
 
             render: ->
-                @$el = $ '<div class="zombie"></div>'
+                @$el = $ '<div class="player"></div>'
                 @playground.add @$el
                 @
 )
