@@ -45,12 +45,12 @@ The boilerplate is organized as follows:
     
 * test.html starts the tests
 * index.html starts the app
-* `coffee/index.coffee` is the first file which gets loaded and starts the app
-* `coffee/test.coffee` is the first file which gets loaded and starts the tests
-* `coffee/test/tests.coffee` contains the configuration for all tests
+* `coffee/index.coffee` is the first file which gets loaded by index.html and starts the app
+* `coffee/test.coffee` is the first file which gets loaded by test.html and starts the tests
+* `coffee/test/tests.coffee` contains the configuration for all tests. The return value of the define-body is an array of objects
 
 Configuration Options
 ----
-* `path: {string}` path
+* `path: {string}` path to test, root is `coffee/tests`
 * `only: {bool}` means only only this test will be executed (the first test which has the only flag)
 * `defineModules: {object}` contains an object of modules which are mocked. Key is the module Name. Value is a function that should contain a "define"-call
