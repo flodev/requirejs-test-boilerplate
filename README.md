@@ -1,13 +1,7 @@
 requirejs-test-boilerplate
 ====================
 
-Manages your tests and mocks
-
-
-Description
-====================
-
-This project provides a boilerplate how to structure your test and app files.
+This project provides a boilerplate for organizing your test and app files.
 
 Features
 ====================
@@ -22,9 +16,9 @@ Installation
 Checkout out or download this project to directory.
 
 Install bower (if you havn't already):
-  sudo npm install -g bower
+    sudo npm install -g bower
   
 Then simply type:
-  bower install
+    bower install
 
 This will install the dependencies.
